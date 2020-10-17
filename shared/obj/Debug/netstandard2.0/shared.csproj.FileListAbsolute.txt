@@ -1,0 +1,9 @@
+D:\Projects\Core\ServerlessChat\shared\bin\Debug\netstandard2.0\shared.deps.json
+D:\Projects\Core\ServerlessChat\shared\bin\Debug\netstandard2.0\shared.dll
+D:\Projects\Core\ServerlessChat\shared\bin\Debug\netstandard2.0\shared.pdb
+D:\Projects\Core\ServerlessChat\shared\obj\Debug\netstandard2.0\shared.csprojAssemblyReference.cache
+D:\Projects\Core\ServerlessChat\shared\obj\Debug\netstandard2.0\shared.AssemblyInfoInputs.cache
+D:\Projects\Core\ServerlessChat\shared\obj\Debug\netstandard2.0\shared.AssemblyInfo.cs
+D:\Projects\Core\ServerlessChat\shared\obj\Debug\netstandard2.0\shared.csproj.CoreCompileInputs.cache
+D:\Projects\Core\ServerlessChat\shared\obj\Debug\netstandard2.0\shared.dll
+D:\Projects\Core\ServerlessChat\shared\obj\Debug\netstandard2.0\shared.pdb
